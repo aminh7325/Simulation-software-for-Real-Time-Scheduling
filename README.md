@@ -3,4 +3,5 @@ I implemented software using python that can schedule given tasks correctly, and
 + EDF(Earliest deadline first)
 + RM(Rate monotonic)
 + DM(Deadline monotonic)
+
 It also shows you a graph with tasks scheduled and marks the tasks with missed deadlines
